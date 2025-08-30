@@ -4,5 +4,6 @@
 - 🌱 Current focus: AI/ML, AWS AI Practitioner exam
 - 🎓 Certs: AWS Certified Solutions Architect - Associate, GitHub Copilot
 - 🌐 Links: [Blog](https://jcleigh.dev), [GitHub](https://github.com/jcleigh), [LinkedIn](https://www.linkedin.com/in/jcleigh/)
+- View my public speaking presentations in my [talks repo](https://github.com/jcleigh/talks)
 
 ![jcleigh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcleigh&show_icons=true&theme=default)
