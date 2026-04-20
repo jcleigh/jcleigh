@@ -4,4 +4,4 @@
 - 🌱 Current focus: LLM-powered DevEx
 - 🎓 Certs: AWS Certified Solutions Architect - Associate, GitHub Copilot, GitHub Actions
 - 🌐 Links: [Blog](https://jcleigh.dev), [GitHub](https://github.com/jcleigh), [LinkedIn](https://www.linkedin.com/in/jcleigh/)
-- View my public speaking presentations in my [talks repo](https://github.com/jcleigh/talks)
+- 🎧 Tunes: [Alexander Allen](https://open.spotify.com/artist/4a0QB9WdRuYzOtfdeZwquw?si=h0dyyGk8TpSE5NOfzLefOQ), [io_wa](https://soundcloud.com/io_wa)
